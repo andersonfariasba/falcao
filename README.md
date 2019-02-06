@@ -8,3 +8,5 @@ Sistema referente a cadastro de clientes, solicitações e serviços oferecidos 
 
 Endereço para testes na web: http://vellore.com.br/adv
 
+Modelo Banco de Dados
+<img src="http://vellore.com.br/adv/modelo.png">
